@@ -1,4 +1,4 @@
-baseURL                 = "https://example.org/"            # Your domain name. Must end with "/"
+baseURL                 = "https://gameboylwy.github.io/"            # Your domain name. Must end with "/"
 languageCode            = "en-us"                           # languageCode
 title                   = "合肥沃时科技有限公司"                    # Site title
 theme                   = "introduction"
